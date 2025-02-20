@@ -58,7 +58,7 @@ In addition to domesticating maize and dispersing it throughout South America an
 <param ve-image 
 	label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577."
        fit="contain"
-       src="gh:plant-humanities/media/maize/Florentine Codex.jpg">
+       url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg)">
 <param ve-image
        label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an &quot;Indian doctor&quot; and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020)."
        fit="contain"
