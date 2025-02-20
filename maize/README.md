@@ -57,15 +57,15 @@ By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduct
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early <span eid="Q13109203"> Mesoamericans</span> played in its domestication through making conscious decisions about the cultivation process.
 <param ve-image label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577."
        fit="contain"
-       url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg">
+       src="gh:plant-humanities/media/maize/Florentine Codex.jpg>
 <param ve-image
        label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an &quot;Indian doctor&quot; and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020)."
        fit="contain"
-       src="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml"> 
+       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml"> 
 <param ve-image
        label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is &quot;exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.&quot; For more, see: Felipe Ledesma-Núñez, &quot;Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,&quot; Exhibit (Washington, DC: Dumbarton Oaks). https://www.doaks.org/resources/online-exhibits/epidemics. Francisco Hernández. Rerum Medicarum Novae Hispaniae Thesaurus. 1648. P. 243."
        fit="contain"
-       src="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml">	    
+       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml">	    
 {#paragraph7}
 
 ### Milpa and Mesoamerica
