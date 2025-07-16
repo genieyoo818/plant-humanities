@@ -179,8 +179,7 @@ The guelder rose, once a frequent symbol in Ukrainian, Russian, and British trad
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_the_President_of_Ukraine.svg" fit="contain" title="The official President's Flag of Ukraine. Around the perimeter of the flag is guelder rose ornament." fit="cover" attribution="Wikimedia Commons" license="public domain">
 
 ### References
-[^1]: Khlebnikov, Volodymyr. “У КМДА Пояснили, Чому Монумент Незалежності На Майдані Не Захистили Від Можливих Обстрілів - Новини Києва | Big Kyiv,” Великий Київ, April 16, 2022. https://bigkyiv.com.ua/u-kmda-poyasnyly-chomu-monument-nezalezhnosti-na-majdani-ne-zahystyly-vid-mozhlyvyh-obstriliv/. 
-Cybriwsky, Roman. “The Center of Kyiv,” in _Kyiv, Ukraine - Revised Edition: The City of Domes and Demons from the Collapse of Socialism to the Mass Uprising of 2013-2014_ (Amsterdam: Amsterdam University Press, 2016). https://www.jstor.org/stable/j.ctt1b9x2zb.10.
+[^1]: Khlebnikov, Volodymyr. “У КМДА Пояснили, Чому Монумент Незалежності На Майдані Не Захистили Від Можливих Обстрілів - Новини Києва | Big Kyiv,” Великий Київ, April 16, 2022. https://bigkyiv.com.ua/u-kmda-poyasnyly-chomu-monument-nezalezhnosti-na-majdani-ne-zahystyly-vid-mozhlyvyh-obstriliv/. Cybriwsky, Roman. “The Center of Kyiv,” in _Kyiv, Ukraine - Revised Edition: The City of Domes and Demons from the Collapse of Socialism to the Mass Uprising of 2013-2014_ (Amsterdam: Amsterdam University Press, 2016). https://www.jstor.org/stable/j.ctt1b9x2zb.10.
 [^2]: The name of the plant also occurs in other Slavic languages such as _kalina_ in Polish and _каліна_ in Belarusian. 
 [^3]: Hatherley, Owen. “Architects of Revolt: The Kiev Square That Sparked Ukraine’s Insurrection,” The Guardian, April 8, 2014, sec. Cities. https://www.theguardian.com/cities/2014/apr/08/architects-revolt-kiev-maidan-square-ukraine-insurrection. 
 [^4]: Kubiak-Martens, Lucyna. “The Plant Food Component of the Diet at the Late Mesolithic (Ertebølle) Settlement at Tybrind Vig, Denmark,” _Vegetation History and Archaeobotany 8_, no. 1/2 (1999): 117–127. http://www.jstor.org/stable/23417650.
@@ -192,14 +191,14 @@ Cybriwsky, Roman. “The Center of Kyiv,” in _Kyiv, Ukraine - Revised Edition:
 [^10]: The Angiosperm Phylogeny Group. “An Ordinal Classification for the Families of Flowering Plants,” _Annals of the Missouri Botanical Garden_ 85, no. 4 (1998): 531–553. https://doi.org/10.2307/2992015.
 [^11]: “Charlton T. Lewis, Charles Short.  A Latin Dictionary,
 Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=viburnum&highlight=viburnum.
-[^12]:  “Charlton T. Lewis, Charles Short.  A Latin Dictionary, Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
-[^13]:  Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology,” _Journal of the History of Biology_ 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201.
+[^12]: “Charlton T. Lewis, Charles Short.  A Latin Dictionary, Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
+[^13]: Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology,” _Journal of the History of Biology_ 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201.
 [^14]: Allen, Grant. _Vignettes from Nature_ (London: Chatto & Windus, 1881). https://doi.org/10.5962/bhl.title.25377.
 [^15]: Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” _Journal of Ecology_ 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
 [^16]: “Viburnum Opulus ‘Roseum’ - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
 [^17]: Mazur, Monika et al.  "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds," _Applied Sciences_ 11, no. 19 (2021): 9221. https://doi.org/10.3390/app11199221.
-[^18]:  Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” _Ecology_ 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
-[^19]:  Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora, revised and enlarged edition, with new illustrations. (Boston: Sanborn, Carter and Bazin). https://www.biodiversitylibrary.org/item/110416.
+[^18]: Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” _Ecology_ 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
+[^19]: Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora, revised and enlarged edition, with new illustrations. (Boston: Sanborn, Carter and Bazin). https://www.biodiversitylibrary.org/item/110416.
 Bramald and Bramald. _The Bible Language of Flowers_ (London: M. Ward & Co., Ltd., 1880). https://www.biodiversitylibrary.org/item/268334.
 Phillips, Henry. n.d. _Floral Emblems_ (London: Saunders and Otley). https://www.biodiversitylibrary.org/item/68864.
 [^20]: Tracz, Orysia. “The Kalyna in Ukrainian Folk Medicine and Folklore,” _Prairie Garden_, January 1, 2006, 119–123.
