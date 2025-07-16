@@ -17,9 +17,9 @@ Why was the guelder rose (*(Viburnum opulus)[Q156928]*) featured on the national
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
 <param ve-map
-       center="50.45078729260635,30.522990497009793"
-       title="Map of Ukraine with zoom in to Kyiv." 
-       zoom="6”>
+       center="50.4549/30.5176"
+       caption="Map of Ukraine with zoom in to Kyiv." 
+       zoom="12”>
 
 ### Prehistoric Roots 
 The guelder rose has long played a prominent role in human culture and can be traced back to the prehistoric period. Charred remains of its seeds were found in <span data-mouseover-map-flyto="55.394211, 9.810635,9">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture dated to 5600–4000 BCE.[^4] Since the berries have to be cooked prior to eating, this record shows that they were cooked and consumed at the site. 
