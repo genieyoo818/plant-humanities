@@ -17,7 +17,7 @@ Why was the guelder rose (*(Viburnum opulus)[Q156928]*) featured on the national
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
 <param ve-map
-       center="50.4549/30.5176"
+       center="50.4549,30.5176"
        caption="Map of Ukraine with zoom in to Kyiv." 
        zoom="12”>
 
