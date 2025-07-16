@@ -7,12 +7,11 @@
        layout="vertical">
 
 ### An Old Symbol Still Stands
-In the center of Kyiv is the Independence Monument comprising a triumphal column, at the top of which is the statue of the Slavic goddess Berehynia, the orante, or blessed mother, of Ukraine. She holds a branch of the _guelder rose_ bush. </span> in her [outstretched arms](/zoomto/1361,6,1663,1420). Standing proudly, with the gold-plated plant displayed for all the city to see, the monument shows how symbolic the flowering bush has become for a nation experiencing invasion and war.[^1]
+In the center of Kyiv is the [Independence Monument](Q3917633) comprising a triumphal column, at the top of which is the statue of the Slavic goddess [Berehynia](Q2622635), the orante, or blessed mother, of Ukraine. She holds a branch of the _guelder rose_ bush. </span> in her [outstretched arms](/zoomto/1361,6,1663,1420). Standing proudly, with the gold-plated plant displayed for all the city to see, the monument shows how symbolic the flowering bush has become for a nation experiencing invasion and war.[^1]
 <param ve-image
        src="gh:plant-humanities/media/guelderrose/monument1.jpg" fit="contain"
-       caption="The female figure that crowns this tall marble column is Berehynia, a folkloric female spirit associated with the protection of home or homeland.">
-<param ve-entity eid="Q3917633">
-<param ve-entity eid="Q2622635">
+       caption="The female figure that crowns this tall marble column is Berehynia, a folkloric female spirit associated with the protection of home or homeland. Image credit: Wikimedia commons."
+       fit="contain">
 
 Why was the guelder rose (_Viburnum opulus_) featured on the national monument? Called _kalyna_ (калина) in Ukrainian and _kalina_ (калина) in Russian,[^2] it is an important symbol and a historically beloved cultural plant in both nations. For Ukraine, it represents independence, making the monument a perfect fit for its location: the <span data-mouseover-map-flyto="50.449486986444576, 30.525408954596692,14">Maidan Square.</span> Also called Maidan Nezalezhnosti, the square has a long history of civic and political action. Student revolutions occurred there in 1905 and 1917; the Revolution on Granite in 1990; protests in 2000; Orange Revolution in 2004; and Euromaidan in 2013.[^3] The guelder rose not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced across Ukraine today. The modest flowering plant has come to represent Ukrainian loyalty, homeland, struggle, and protest as it joins the fight for Ukrainian resilience and independence from Russia. 
 <param ve-entity eid="Q156928">
