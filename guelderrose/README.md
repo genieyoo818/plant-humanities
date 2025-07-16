@@ -8,8 +8,9 @@
 
 ### An Old Symbol Still Stands
 In the center of Kyiv is the Independence Monument comprising a triumphal column, at the top of which is the statue of the Slavic goddess Berehynia, the orante, or blessed mother, of Ukraine. She holds a branch of the _guelder rose_ bush. </span> in her [outstretched arms](/zoomto/1361,6,1663,1420). Standing proudly, with the gold-plated plant displayed for all the city to see, the monument shows how symbolic the flowering bush has become for a nation experiencing invasion and war.[^1]
-<param ve-image  
-src="wc:Монумент_Незалежності_(Київ).jpg" fit="contain" title="The female figure that crowns this tall marble column is Berehynia, a folkloric female spirit associated with the protection of home or homeland." attribution="Wikimedia Commons" license="public domain">
+<param ve-image
+       src="gh:plant-humanities/media/guelderrose/monument1.jpg" fit="contain"
+       caption="The female figure that crowns this tall marble column is Berehynia, a folkloric female spirit associated with the protection of home or homeland.">
 <param ve-entity eid="Q3917633">
 <param ve-entity eid="Q2622635">
 
